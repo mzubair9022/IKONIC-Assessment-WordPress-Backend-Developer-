@@ -11,3 +11,19 @@ Tested up to: 5.4
 Requires PHP: 7.0
 Text Domain: ikonicassessment
 */
+
+.projects-archive {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.project {
+    border: 1px solid;
+    padding: 10px;
+}
+.project a {
+    color: #000;
+    text-decoration: none;
+}
