@@ -28,5 +28,11 @@ if ( have_posts() ) {
     <?php echo do_shortcode("[coffee_image]"); ?>
 </div>
 
+<div class="kanye-quotes-container">
+    <h3>Task 8:- This is Kanye Qoutes shortcode which is defined in kanye-quotes-plugin.php file.</h3>
+    <?php echo do_shortcode("[kanye_quotes]"); ?>
+    
+</div>
+
 
 <?php get_footer();

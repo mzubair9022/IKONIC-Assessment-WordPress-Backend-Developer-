@@ -51,3 +51,9 @@ Text Domain: ikonicassessment
     width: 300px;
     border: 1px solid black;
 }
+
+.kanye-quotes-container {
+    border-top: 1px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
