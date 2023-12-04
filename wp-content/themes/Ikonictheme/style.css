@@ -27,3 +27,17 @@ Text Domain: ikonicassessment
     color: #000;
     text-decoration: none;
 }
+
+.ajax-projects-contianer {
+    border-top: 1px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.get-projects {
+    /* margin-top: 20px; */
+    background-color: aqua;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px;
+    font-weight: 600;
+}
